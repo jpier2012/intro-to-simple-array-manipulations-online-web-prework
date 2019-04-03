@@ -24,5 +24,4 @@ end
 
 def using_insert array, element
   array.index element, 4
-  
 end
