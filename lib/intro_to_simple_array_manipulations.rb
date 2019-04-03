@@ -10,8 +10,8 @@ def using_pop array
   array.pop
 end
 
-def pop_with_args array, count
-  array.pop count
+def pop_with_args array
+  array.pop 2
 end
 
 def shift_with_args array, count
