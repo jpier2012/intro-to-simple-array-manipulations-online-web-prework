@@ -1,6 +1,3 @@
-require 'pry'
-
-
 def using_push array, string
   array.push string
 end
@@ -16,5 +13,3 @@ end
 def pop_with_args array, count
   array.pop count
 end
-
-binding.pry
