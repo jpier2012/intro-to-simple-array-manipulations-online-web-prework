@@ -23,5 +23,5 @@ def using_concat array1, array2
 end
 
 def using_insert array, element
-  array.index element, 3
+  array.index 3, element
 end
