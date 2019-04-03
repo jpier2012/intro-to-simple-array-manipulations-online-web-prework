@@ -13,3 +13,11 @@ end
 def pop_with_args array, count
   array.pop count
 end
+
+def shift_with_args array, count
+  array.shift count
+end
+
+def using_concat array1, array2
+  array.concat array2  
+end
